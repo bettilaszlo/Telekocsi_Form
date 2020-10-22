@@ -23,4 +23,5 @@ namespace Telekocsi_Form
             Ferohely = Convert.ToInt32(ferohely);
             Utvonal = Indulas + "-" + Cel;
         }
+    }
 }
